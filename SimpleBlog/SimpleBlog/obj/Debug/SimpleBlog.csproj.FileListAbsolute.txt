@@ -44,3 +44,4 @@ C:\Source\SimpleBlog\SimpleBlog\SimpleBlog\bin\System.Web.Helpers.xml
 C:\Source\SimpleBlog\SimpleBlog\SimpleBlog\bin\System.Web.Mvc.xml
 C:\Source\SimpleBlog\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.dll
 C:\Source\SimpleBlog\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.pdb
+C:\Source\SimpleBlog\SimpleBlog\SimpleBlog\obj\Debug\SimpleBlog.csprojResolveAssemblyReference.cache
